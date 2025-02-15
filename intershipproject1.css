@@ -1,0 +1,19 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+body
+{
+	background-color: red;
+
+}
+.bucket
+{
+	border: 2px solid red;
+	margin:90px auto;
+	background-color: black;
+	color: white;
+	text-align: center;
+	width: 400px;
+}
